@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(21, 32, 43);
+}
+
+main {    
+    margin: 10px 15px 0 15px;
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    color: lightgray;
+}
+
+h2 {
+    padding-bottom: 20px;
+}
+
+h4 {
+    border-bottom-style: double;
+}
+
+a {
+    text-decoration: none;    
+}
+
+a:link {
+    color: greenyellow;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+a:hover {
+    color: lightgray;
+}
