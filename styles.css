@@ -8,11 +8,8 @@ main {
     color: lightgray;
 }
 
-h2 {
-    padding-bottom: 20px;
-}
-
 h4 {
+    padding-top: 10px;
     border-bottom-style: double;
 }
 
