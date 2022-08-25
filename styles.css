@@ -28,3 +28,10 @@ a:visited {
 a:hover {
     color: lightgray;
 }
+
+.introvideo {
+    margin: auto;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+}
